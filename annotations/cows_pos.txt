@@ -1,0 +1,57 @@
+dataset\cows\1.png 1 477 199 62 112
+dataset\cows\10.png 1 474 135 59 66
+dataset\cows\11.png 1 416 228 57 50
+dataset\cows\12.png 1 470 103 192 177
+dataset\cows\13.png 1 443 149 277 265
+dataset\cows\14.png 1 320 138 490 352
+dataset\cows\15.png 1 240 83 186 195
+dataset\cows\16.png 1 463 81 217 216
+dataset\cows\17.png 1 545 223 33 53
+dataset\cows\18.png 1 453 229 74 68
+dataset\cows\19.png 1 510 213 54 65
+dataset\cows\2.png 1 477 367 86 100
+dataset\cows\20.png 1 289 353 115 86
+dataset\cows\21.png 1 410 58 81 108
+dataset\cows\22.png 1 391 232 80 97
+dataset\cows\23.png 1 202 263 131 118
+dataset\cows\24.png 1 659 151 155 151
+dataset\cows\25.png 1 474 220 70 131
+dataset\cows\26.png 1 573 123 99 135
+dataset\cows\27.png 1 270 230 137 131
+dataset\cows\28.png 1 506 262 134 121
+dataset\cows\3.png 1 714 220 87 104
+dataset\cows\31.png 1 514 210 115 114
+dataset\cows\32.png 1 390 213 92 83
+dataset\cows\33.png 1 256 340 121 107
+dataset\cows\34.png 1 611 222 95 100
+dataset\cows\35.png 1 420 229 92 107
+dataset\cows\36.png 1 252 258 60 92
+dataset\cows\37.png 1 714 294 98 93
+dataset\cows\38.png 1 519 320 106 107
+dataset\cows\39.png 1 278 122 134 111
+dataset\cows\4.png 1 283 91 102 119
+dataset\cows\40.png 1 269 218 261 201
+dataset\cows\41.png 1 404 285 104 124
+dataset\cows\42.png 1 275 179 188 208
+dataset\cows\43.png 1 407 150 137 178
+dataset\cows\44.png 1 579 159 269 312
+dataset\cows\45.png 2 305 106 497 373 271 55 50 55
+dataset\cows\46.png 0
+dataset\cows\47.png 0
+dataset\cows\48.png 0
+dataset\cows\49.png 1 441 289 46 79
+dataset\cows\5.png 1 236 230 161 151
+dataset\cows\50.png 1 601 172 93 86
+dataset\cows\51.png 1 503 174 102 93
+dataset\cows\52.png 1 334 357 76 119
+dataset\cows\53.png 1 469 187 81 101
+dataset\cows\54.png 1 604 62 98 146
+dataset\cows\55.png 1 291 235 104 134
+dataset\cows\56.png 1 437 216 159 155
+dataset\cows\58.png 1 396 129 441 294
+dataset\cows\59.png 1 204 64 540 421
+dataset\cows\6.png 1 470 123 140 146
+dataset\cows\60.png 1 333 190 555 297
+dataset\cows\7.png 1 434 277 135 143
+dataset\cows\8.png 1 509 202 84 121
+dataset\cows\9.png 1 295 333 71 80
